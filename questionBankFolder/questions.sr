@@ -1,0 +1,3 @@
+[[What is the general form when declaring an array?:::type[] arrayName;.]] Difficulty: Hard
+
+[[What is the general form when declaring a vector?:::Vector<type> v = new Vector();.]] Difficulty: Hard
